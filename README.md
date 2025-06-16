@@ -45,7 +45,7 @@ chat-haku/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/chat-haku.git
+git clone https://github.com/thayzavi/ChatHaku.git
 cd chat-haku
 ```
 
@@ -55,7 +55,7 @@ cd chat-haku
 ```bash
 cd backend
 npm install
-npm run dev # ou node index.js
+node server.js
 ```
 
 #### Mobile
@@ -93,7 +93,7 @@ mobile/assets/fundo.jpg
 
 ## 📲 Preview
 
-![Chat com Haku](./mobile/assets/preview.png) <!-- (opcional, se tiver imagem de tela) -->
+
 
 ## 📄 Licença
 
@@ -102,4 +102,4 @@ Sinta-se livre para contribuir, estudar ou adaptar para seus projetos pessoais!
 
 ## ✨ Autor
 
-Desenvolvido com 💙 por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido com 💙 por [Seu Nome](https://github.com/thayzavi)
