@@ -1,3 +1,4 @@
+
 # 🐉  Chat com Haku
 
 Haku é um assistente virtual inspirado no personagem do filme A Viagem de Chihiro, do Studio Ghibli. Assim como no longa, ele transmite calma e sabedoria. Integrado a uma interface em React Native com backend em Node.js. Neste projeto, Haku é voltado para responder com empatia, equilíbrio emocional e foco em saúde mental.
@@ -93,7 +94,8 @@ mobile/assets/fundo.jpg
 
 ## 📲 Preview
 
-
+![IMG_0901](https://github.com/user-attachments/assets/72cf84b3-0919-4bbe-8568-b817fec30db2)
+![IMG_0900](https://github.com/user-attachments/assets/ea7f41be-bfab-4961-acf8-05c8a2a00dd3)
 
 ## 📄 Licença
 
