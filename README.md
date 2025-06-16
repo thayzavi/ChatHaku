@@ -102,4 +102,4 @@ Sinta-se livre para contribuir, estudar ou adaptar para seus projetos pessoais!
 
 ## ✨ Autor
 
-Desenvolvido com 💙 por [Seu Nome](https://github.com/thayzavi)
+Desenvolvido com 💙 por Thayza Sillva (https://github.com/thayzavi)
