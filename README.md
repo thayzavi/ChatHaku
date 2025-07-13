@@ -10,7 +10,7 @@ Seu principal objetivo é apoiar pessoas que estão enfrentando momentos de ansi
 chat-haku/
 ├── backend/         # Backend com Node.js + Express
 │   ├── server.js
-│   ├── .env  -- com sua chava (OPENROUTER_API_KEY=)
+│   ├── .env 
 │   └── package.json
 ├── mobile/          # Frontend mobile com React Native
 │   ├── App.js
